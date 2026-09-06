@@ -1,0 +1,9 @@
+TECH CHALLENGE FASE 3 — ENTREGA PREPARADA
+
+1) Comece pelo README.md.
+2) O relatório técnico está em reports/relatorio_tecnico.md.
+3) O roteiro do vídeo está em docs/roteiro_video_5min.md.
+4) Os notebooks estão em notebooks/.
+5) O ranking de risco 2025 está em reports/top_100_risco_municipal_2025.csv.
+
+ATENÇÃO: o CSV Silver recebido tem 62,767 linhas, enquanto sua Fase 2 documenta cerca de 3,87 milhões processadas. O projeto está pronto e reproduzível com a exportação recebida, mas a recomendação técnica é substituir esse CSV pela exportação completa antes da entrega final se for possível.
