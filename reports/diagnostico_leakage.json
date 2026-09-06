@@ -1,0 +1,9 @@
+{
+  "linhas_alunos_exportadas": 62767,
+  "linhas_avaliadas_com_proficiencia": 47555,
+  "taxa_alfabetizados_amostra_total": 0.45523921806044576,
+  "taxa_alfabetizados_avaliados": 0.6008621596046683,
+  "correspondencia_alfabetizado_com_threshold_743": 1.0,
+  "nulos_proficiencia": 15212,
+  "nulos_peso_aluno": 15212
+}

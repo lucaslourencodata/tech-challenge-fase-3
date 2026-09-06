@@ -1,0 +1,18 @@
+{
+  "accuracy": 0.6501100715465052,
+  "precision": 0.6628982528263104,
+  "recall": 0.78125,
+  "f1": 0.7172245079506283,
+  "roc_auc": 0.6971931627413223,
+  "n_train": 20054,
+  "n_test": 7268,
+  "municipios_train": 1069,
+  "municipios_test": 357,
+  "best_params": {
+    "model__l2_regularization": 1.0,
+    "model__learning_rate": 0.1,
+    "model__max_leaf_nodes": 31,
+    "model__min_samples_leaf": 50
+  },
+  "cv_f1": 0.6907124418420528
+}

@@ -1,0 +1,10 @@
+{
+  "k": 4,
+  "silhouette": 0.31410636787876217,
+  "labels": {
+    "1": "Melhor desempenho / menor risco",
+    "3": "Desempenho favorável",
+    "0": "Pressão de meta / risco intermediário",
+    "2": "Maior vulnerabilidade / maior risco"
+  }
+}
