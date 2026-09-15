@@ -162,3 +162,12 @@ Ou abra os notebooks na ordem numérica.
 - `reports/top_100_risco_municipal_2025.csv`
 - `reports/clusters_municipais_2025.csv`
 - `docs/roteiro_video_5min.md`
+
+## Reprodutibilidade
+
+O projeto foi estruturado para permitir a reprodução completa da pipeline de Machine Learning.
+
+Para instalar as dependências:
+
+```bash
+pip install -r requirements.txt
